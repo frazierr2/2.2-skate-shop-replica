@@ -25,4 +25,4 @@ which is located [HERE]
    [HTML5]: <https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5>
    [CSS3]: <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [HERE]: <https://frazierr2.github.io/2.2-skate-shop/>
+   [HERE]: <https://frazierr2.github.io/2.2-skate-shop-replica/>
